@@ -3,7 +3,6 @@
 
 ---
 
-### Exercise 2 — Text Formatting
 I want to **master Git**, *practice Markdown*, and learn how to use `GitHub Pages` effectively.
 
 ---
