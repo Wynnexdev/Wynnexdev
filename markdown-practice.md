@@ -7,13 +7,13 @@ I want to **master Git**, *practice Markdown*, and learn how to use `GitHub Page
 
 ---
 
-### Exercise 3 — Links
+
 - [My GitHub Profile](https://github.com/wynnexdev)  
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
-### Exercise 4 — Lists
+
 **Things I want to learn:**  
 - HTML/CSS  
 - JavaScript  
@@ -26,7 +26,7 @@ I want to **master Git**, *practice Markdown*, and learn how to use `GitHub Page
 
 ---
 
-### Exercise 5 — Table
+
 
 | Tool      | Purpose           | Link                                      |
 |-----------|-------------------|-------------------------------------------|
@@ -34,7 +34,7 @@ I want to **master Git**, *practice Markdown*, and learn how to use `GitHub Page
 | VS Code   | Code editor       | [VS Code](https://code.visualstudio.com)  |
 
 
-### Exercise 6 — Task List
+
 - [x] Create GitHub profile README  
 - [ ] Learn basic Git commands  
 - [ ] Build a simple webpage  
@@ -42,7 +42,7 @@ I want to **master Git**, *practice Markdown*, and learn how to use `GitHub Page
 
 ---
 
-### Exercise 7 — Code Block
+
 ```python
 print("Hello, world!")
 ```
