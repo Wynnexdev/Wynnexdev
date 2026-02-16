@@ -30,7 +30,8 @@ I want to **master Git**, *practice Markdown*, and learn how to use `GitHub Page
 ### Exercise 5 — Table
 
 | Tool      | Purpose           | Link                                      |
-|-----------|---------------------------------------------------------------|
+|
+|-----------|--------------------|-------------------------------------------|
 | GitHub    | Version control   | [GitHub](https://github.com)              |     
 | VS Code   | Code editor       | [VS Code](https://code.visualstudio.com)  |
 
